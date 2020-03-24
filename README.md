@@ -6,6 +6,7 @@ Realtime chat app with
 - Vanilla JS on the frontend
 
 # Run in local machine:
+
 - npm install
 -> npm run dev
 
