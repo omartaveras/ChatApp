@@ -5,8 +5,8 @@ Realtime chat app with
 - Socket.io
 - Vanilla JS on the frontend
 
-#Run in local machine:
+# Run in local machine:
 - npm install
-- npm run dev
+-> npm run dev
 
 localhost:5000
