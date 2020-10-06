@@ -4,6 +4,7 @@ Realtime chat app with
 - Express
 - Socket.io
 - Vanilla JS on the frontend
+- Vue.js
 
 # Run in local machine:
 
